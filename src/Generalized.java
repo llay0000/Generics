@@ -34,10 +34,9 @@ public class Generalized <T,V,K>{
     }
     @Override
     public String toString() {
-        return "Generalized{" +
+        return "Generalized: " +
                 "a=" + a +
                 ", b=" + b +
-                ", c=" + c +
-                '}';
+                ", c=" + c;
     }
 }
